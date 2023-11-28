@@ -16,5 +16,9 @@
 1. can search for information on arriving flights
 2. can search for information on departing flights
 3. A self check in system that uses a criteria for the passport numbers and ticket numbers to inform the passengers on if their flights are in business class <br> or in economy class and services offered by both are mentioned
-4. passengers can choose their connecting flights and calculate how long will it take to reach their destination through these different routes 
+4. passengers can choose their connecting flights and calculate how long will it take to reach their destination through these different routes
+
+## Muhammad abbas 23k-0068
+## murtaza jafri 23k-0076
+## muhammad sabeeh 23k-0002
    
