@@ -83,8 +83,16 @@ https://github.com/NUCES-Khi/pfproject-chain_smokers/assets/75746019/8b643fb2-20
 
 https://github.com/NUCES-Khi/pfproject-chain_smokers/assets/75746019/8c44d42c-a11c-43df-8ffb-56eb8313f68f
 
+## Contributions:
 
+### Murtaza Jaffri:
+Executed the incorporation of data in other functions, initiated calls to various functions, and designed the main function.
 
+### Muhammad Abbas:
+Coded and executed all functions as part of the implementation.
+
+### Muhammad Sabeeh:
+Implemented hardcoded data within the user panel and designed its interface.
 
 
 
