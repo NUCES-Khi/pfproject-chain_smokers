@@ -76,12 +76,20 @@
 # video demo <br>
 
 ## admin panel:<br>
-https://github.com/NUCES-Khi/pfproject-chain_smokers/assets/75746019/8b643fb2-2012-4a11-acdf-b1c54a62da53
+
+
+https://github.com/NUCES-Khi/pfproject-chain_smokers/assets/75746019/0c1df525-ec0e-4fe3-8893-f815429cfbf3
+
+
 
 ## user panel: <br>
 
 
-https://github.com/NUCES-Khi/pfproject-chain_smokers/assets/75746019/8c44d42c-a11c-43df-8ffb-56eb8313f68f
+https://github.com/NUCES-Khi/pfproject-chain_smokers/assets/75746019/1bb28048-72ec-4cae-8e93-d7da69f463eb
+
+
+
+
 
 ## Contributions:
 
@@ -89,7 +97,7 @@ https://github.com/NUCES-Khi/pfproject-chain_smokers/assets/75746019/8c44d42c-a1
 Executed the incorporation of data in other functions, initiated calls to various functions, and designed the main function.
 
 ### Muhammad Abbas:
-Coded and executed all functions as part of the implementation.
+Coded and executed all functions as part of the implementation and implemented filing for both admin and user panel.
 
 ### Muhammad Sabeeh:
 Implemented hardcoded data within the user panel and designed its interface.
