@@ -71,4 +71,23 @@
 3. A graphical user interface could be implemented so that the user interface is more user friendly and attractive.
 4. data encryption on the files can be implemented so that the data is ony accessible by people with authority.
 5. stacks and queues could be used to store the data of flights and tickets.
+
+
+# video demo <br>
+
+## admin panel:<br>
+https://github.com/NUCES-Khi/pfproject-chain_smokers/assets/75746019/8b643fb2-2012-4a11-acdf-b1c54a62da53
+
+## user panel: <br>
+
+
+https://github.com/NUCES-Khi/pfproject-chain_smokers/assets/75746019/8c44d42c-a11c-43df-8ffb-56eb8313f68f
+
+
+
+
+
+
+
+
    
